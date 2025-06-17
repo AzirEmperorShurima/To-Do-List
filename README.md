@@ -26,5 +26,3 @@ and time they are added
 > Notification Panel
 
 # Fetching Demo To Dos from a dummy server -
-
-https://jsonplaceholder.typicode.com/todos
